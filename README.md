@@ -6,7 +6,7 @@ Libraries Used:
 sys: Standard library for system-specific parameters and functions.
 lxml: Library for processing XML and HTML.
 numpy (as np): Library for numerical operations, used for vector manipulation.
-spacy: Natural Language Processing library. It loads the "en_core_web_md" model for English language processing.
+spacy: Natural Language Processing library. It loads the "en_core_web_lg" model for English language processing.
 pickle, re, json, os: Standard libraries for handling data serialization, regular expressions, JSON, and operating system-related tasks.
 sklearn: Library for machine learning tasks. In this code, it is used for calculating cosine similarity.
 Classes:
